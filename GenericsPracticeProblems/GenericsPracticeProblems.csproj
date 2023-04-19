@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MinimumFloatValue.cs" />
+    <Compile Include="MinimumStringValue.cs" />
     <Compile Include="MinInteger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
